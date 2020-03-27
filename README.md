@@ -1,4 +1,4 @@
-# steamguard-cli
+# steamguard-cli fork
 A linux utility for setting up and using Steam Mobile Authenticator (AKA Steam 2FA) on the command line.
 **This utility is in beta.**
 
